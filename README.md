@@ -45,15 +45,14 @@ The goal is to demonstrate:
   - Right axis: PM2.5 — dashed orange line.
 - Works entirely without paid services.
 
+##OUTPUT
 
+<img width="351" height="27" alt="Image" src="https://github.com/user-attachments/assets/c548cbab-3d12-4761-a00f-e4c46877d2f4" />
 
 ##  Installation
 1. Clone or download the repository.
 2. Install Python dependencies:
    ```bash
 
-   ##OUTPUT
-
-   <img width="351" height="27" alt="Image" src="https://github.com/user-attachments/assets/c548cbab-3d12-4761-a00f-e4c46877d2f4" />
-   pip install requests matplotlib python-dateutil
+ 
 
