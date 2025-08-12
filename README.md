@@ -15,7 +15,7 @@
 
 # Weather & Air Quality Visualization (Free API)
 
-## 📌 Overview
+##  Overview
 This project fetches **hourly temperature** and **PM2.5 air quality** data for any city in the world using **free, no-API-key-required** public data sources. It then visualizes the results on a dual-axis chart using `matplotlib`.
 
 The goal is to demonstrate:
